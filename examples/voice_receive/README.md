@@ -1,4 +1,4 @@
-<img align="right" src="http://bwmarrin.github.io/discordgo/img/discordgo.png">
+<img align="right" src="http://mlasala45.github.io/discordgo/img/discordgo.png">
 
 ## DiscordGo Voice Receive Example
 
