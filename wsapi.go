@@ -50,6 +50,8 @@ type resumePacket struct {
 func (s *Session) Open() error {
 	s.log(LogInformational, "called")
 
+	s.log(LogDebug, "Running mlasala45 version")
+
 	var err error
 
 	// Prevent Open or other major Session functions from
