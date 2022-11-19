@@ -49,6 +49,7 @@ type resumePacket struct {
 // See: https://discord.com/developers/docs/topics/gateway#connecting
 func (s *Session) Open() error {
 	s.log(LogInformational, "called")
+	s.log(LogInformational, "called from mlasala45 version")
 
 	s.log(LogDebug, "Running mlasala45 version")
 
